@@ -5,6 +5,7 @@ var mkdirp = require('mkdirp')
 var fs = require('fs')
 var path = require('path')
 var os = require('os')
+var secret2 = `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`
 
 var win32 = os.platform() === 'win32'
 
